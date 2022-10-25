@@ -156,7 +156,7 @@ $$    $$/         $$ |           $$$/           $$    $$/
 $$$$$$$/          $$/             $/             $$$$$$/
  FACEBOOK : MEHEDI HASAN TONU 
  VERSION 1.0.0 NEW  •
-•YouTube :BD-TERMUX  •
+•YouTube :BD-TERMUX •
 '''
 	oi = nel(tekz(ban,justify='center',style='bold'), style='cyan')
 	cetak(nel(oi, title='[TONU] • DEVELOVER INFORMATION • [/TONU]'))
